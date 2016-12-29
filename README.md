@@ -62,9 +62,9 @@ http://www.jb51.net/softs/75615.html
 
 Tomcat 7.0.69
 
-http://mirrors.hust.edu.cn/apache/tomcat/tomcat-7/v7.0.69/bin/apache-tomcat-7.0.69.zip
+http://mirrors.hust.edu.cn/apache/tomcat/tomcat-7/v7.0.73/bin/apache-tomcat-7.0.73.zip
 
-http://apache.fayea.com/tomcat/tomcat-7/v7.0.69/bin/apache-tomcat-7.0.69.zip
+http://apache.fayea.com/tomcat/tomcat-7/v7.0.73/bin/apache-tomcat-7.0.73.zip
 
 Tomcat 8.0.33
 
