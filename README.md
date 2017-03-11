@@ -1,4 +1,4 @@
-#PublicCMS 2016
+#PublicCMS 2017
 
 ##版权保护
 
@@ -42,17 +42,11 @@
 
 ##Public CMS及第三方程序下载
 
-PublicCMS 2016
+PublicCMS Source 2017
 
-http://git.oschina.net/sanluan/PublicCMS-war/repository/archive/master
+http://git.oschina.net/sanluan/PublicCMS-preview/repository/archive/master
 
-https://github.com/sanluan/PublicCMS-war/archive/master.zip
-
-PublicCMS Source 2016
-
-http://git.oschina.net/sanluan/PublicCMS/repository/archive/master
-
-https://github.com/sanluan/PublicCMS/archive/master.zip
+https://github.com/sanluan/PublicCMS-preview/archive/master.zip
 
 JDK1.7 64Bit 7u80
 
