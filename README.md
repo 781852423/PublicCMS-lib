@@ -44,9 +44,9 @@
 
 PublicCMS Source 2017
 
-http://git.oschina.net/sanluan/PublicCMS-preview/repository/archive/master
+http://git.oschina.net/sanluan/PublicCMS/repository/archive/master
 
-https://github.com/sanluan/PublicCMS-preview/archive/master.zip
+https://github.com/sanluan/PublicCMS/archive/master.zip
 
 JDK1.7 64Bit 7u80
 
